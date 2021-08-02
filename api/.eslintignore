@@ -1,0 +1,5 @@
+# typescript bundle
+dist/
+
+# modules
+node_modules/
